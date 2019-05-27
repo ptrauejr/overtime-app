@@ -47,3 +47,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'devise', '~> 4.6', '>= 4.6.2'
