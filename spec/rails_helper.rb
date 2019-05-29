@@ -8,7 +8,7 @@ require 'capybara/rails'
 
 include Warden::Test::Helpers
 Warden.test_mode!
-:wait_writable
+
 ActiveRecord::Migration.maintain_test_schema!
 
 RSpec.configure do |config|
