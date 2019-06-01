@@ -50,3 +50,4 @@ end
 
 gem 'devise', '~> 4.6', '>= 4.6.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'gritter', '~> 1.2'
