@@ -21,3 +21,4 @@
 
 ## Refactor TODOS:
 - [ ] Refactor user assocation integration test in post_spec
+- [ ] Refactgor posts/_forj for admin user with status
