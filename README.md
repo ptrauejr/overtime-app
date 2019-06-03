@@ -22,4 +22,5 @@
 ## Refactor TODOS:
 - [ ] Refactor user assocation integration test in post_spec
 - [ ] Refactgor posts/_forj for admin user with status
-- [ ] Fix post_spec.rb: :82 to use factories
+- [ ] Fix post_spec.rb:82 to use factories
+- [ ] fix post_spec.rb:52 to have correct user reference and not require update
