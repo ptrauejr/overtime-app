@@ -50,4 +50,8 @@ class ApplicationPolicy
       scope
     end
   end
+
+  def admin_types
+    ['AdminUser']
+  end
 end
