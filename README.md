@@ -1,10 +1,11 @@
 # Overtime App
 
-## Key requirements: company needs documentation that salaraied employees did or did not get overtime each week
+## Key requirements: company needs documentation that salaried employees did or did not get overtime each week
 
 - [x] Post -> date:date rationale:text
 - [x] User -> Devise
 - [x] AdminUser -> STI
+- [ ] AuditLog
 
 ## Features:
 - [ ] Approval Workflow
@@ -16,8 +17,8 @@
 
 ## UI:
 - [x] Bootstrap -> formatting
-- [ ] Icons from Font Awesome
+- [x] Icons from gliphicons
 - [x] Update the styles for forms
 
 ## Refactor TODOS:
-- [ ] Refactor posts/_form for admin user with status
+- [x] Refactor posts/_form for admin user with status
