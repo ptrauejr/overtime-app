@@ -48,7 +48,7 @@ group :development do
   gem 'spring'
 end
 
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'gritter', '~> 1.2'
 gem 'administrate', '~> 0.11.0'
